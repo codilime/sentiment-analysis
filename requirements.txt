@@ -1,0 +1,4 @@
+transformers==4.32.1
+torch==2.0.1
+langdetect==1.0.9
+pandas==2.1.0
